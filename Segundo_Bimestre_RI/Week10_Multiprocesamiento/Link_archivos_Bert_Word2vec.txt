@@ -1,0 +1,5 @@
+Se uso multiprocesamiento para los modelos Bert y Word2vec, para luego usarlos en el .ipynb
+
+https://epnecuador-my.sharepoint.com/:f:/g/personal/geovanny_luna_epn_edu_ec/EjlLutn0fEFNkScUn2Un6cYBLMEuuxXVL7fMaazJslkLAg?e=WPsUns
+
+
